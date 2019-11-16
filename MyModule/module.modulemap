@@ -1,0 +1,6 @@
+module MyModule {
+    umbrella header "MyModule.h"
+
+    export *
+    module * { export * }
+}
